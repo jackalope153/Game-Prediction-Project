@@ -1,0 +1,31 @@
+Team(Old),Team_Names,Team(New)
+ARI,Arizona Diamondbacks,ARI
+ATL,Atlanta Braves,ATL
+BAL,Baltimore Orioles,BAL
+BOS,Boston Red Sox,BOS
+CHC,Chicago Cubs,CHN
+CIN,Cincinnati Reds,CIN
+CLE,Clevland Indians,CLE
+COL,Colorado Rockies,COL
+CWS,Chicago White Sox,CHA
+DET,Detroit Tigers,DET
+HOU,Houston Astros,HOU
+KC,Kansas City Royals,KCA
+LAA,Los Angeles Angels,ANA
+LAD,Los Angeles Dodgers,LAN
+MIA,Miami Marlins,MIA
+MIL,Milwaukee Brewers,MIL
+MIN,Minnesota Twins,MIN
+NYM,New York Mets,NYN
+NYY,New York Yankees,NYA
+OAK,Oakland Athletics,OAK
+PHI,Philadelphia Phillies,PHI
+PIT,Pittsburgh Pirates,PIT
+SD,San Diego Padres,SDN
+SEA,Seattle Mariners,SEA
+SF,San Francisco Giants,SFN
+STL,St. Louis Cardinals,SLN
+TB,Tampa Bay Rays,TBA
+TEX,Texas Rangers,TEX
+TOR,Toronto Blue Jays,TOR
+WAS,Washington Nationals,WAS
